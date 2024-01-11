@@ -1,3 +1,6 @@
+#Introducimos al usuario al programa
+print("Este programa, se encarga de clasificar a todos los jugadores en posiciones en función de sus estadisticas. Hay 8 tipos diferentes de posiciones. Introduce el nombre del jugador y sus estadisticas para clasificarlo.")
+
 # Definir una lista para almacenar la información de los jugadores
 jugadores = []
 

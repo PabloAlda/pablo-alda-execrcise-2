@@ -1,6 +1,10 @@
+#Introducimos al usuario al programa
+print("Este programa, se encarga de clasificar a todos los jugadores de la NBA en posiciones en función de sus estadisticas. Hay 8 tipos diferentes de posiciones. Introduce el nombre del jugador que deseas estudiar a continuación.")
+
 #Importo json
 import json
-# Definir una lista para almacenar la información de los jugadores
+
+# Definir una lista para almacenar la información de los jugadores, esta lista se encuentra en un json.
 """jugadores = [
     #Dallas Mavericks
     {"Nombre": "Luka Doncic", "Altura": 200, "Peso": 98, "PromedioPPP": 33.6, "Asistencias": 9.1, "Rebotes": 8.1},
